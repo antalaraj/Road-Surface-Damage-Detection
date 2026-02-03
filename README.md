@@ -43,11 +43,12 @@ It is designed as a smart city solution for automated road infrastructure monito
 
 ## 📁 Project Structure
 
+```text
 Road-Surface-Damage-Detection/
 │
 ├── app.py  
 ├── potholes.zip  
-└── README.md   
+└── README.md  
 
 ---
 
